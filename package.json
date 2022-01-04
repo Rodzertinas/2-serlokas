@@ -1,0 +1,19 @@
+{
+  "name": "2-serlokas",
+  "version": "1.0.0",
+  "description": "Musu pirmasis NPM projektas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=30000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Rodzertinas",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
