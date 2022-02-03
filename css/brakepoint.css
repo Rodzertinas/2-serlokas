@@ -1,0 +1,13 @@
+@media (max-width: 1000px){
+    main  {
+       
+        width: 700px; 
+        margin: 0 calc(50% - 400px);
+}
+
+@media (max-width: 800px){
+    div  {
+     width: 300px; 
+     margin: 0 calc(50% - 300px);
+     padding-top: 310px;
+
